@@ -1,2 +1,2 @@
 # Erse-resolusi
-Repositori untuk menyimpan recana erik kedepan
+Repositori untuk menyimpan rencana erik kedepan
